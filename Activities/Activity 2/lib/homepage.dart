@@ -59,7 +59,7 @@ class HomePage extends StatelessWidget {
                     fontWeight: FontWeight.bold
                   ),),
                   const Text(
-                    '+63 966 793 1872',
+                    '+63 966 793 ****',
                     style: TextStyle(
                       fontSize: 16,
                       color: Colors.grey,
